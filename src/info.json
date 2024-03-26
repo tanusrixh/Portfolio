@@ -1,0 +1,51 @@
+{
+    "projInfo":[
+        {
+            "title":"Portfolio (2024)",
+            "desc":"A website I built to showcase my projects and UI building skills. I used ReactJS, Framer Motion, CSS, and MUI.",
+            "link":""
+        },
+        {
+            "title":"GreeneryMiles (2023)",
+            "desc":"",
+            "link":"https://github.com/GreeneryMiles"
+        },
+        {
+            "title":"ConstasDatabase (2023-2024)",
+            "desc":"Repository is private. ",
+            "link":""
+        },
+        {
+            "title":"Stopwatch (2024)",
+            "desc":"A stopwatch app that has a live analog and digital lap time and current time display, along with displaying total number of laps. The app was built using Shopify Polaris, React, and TypeScript.",
+            "link":"https://github.com/tanusrixh/live-clock-polaris-stopwatch-react"
+        },
+        {
+            "title":"RoloTim.ai (2024)",
+            "desc":"A virtual rolodex app that uses voice prompts (like Siri) to extract important information about the conversation such as date, time, location, picture of who was being spoken to, etc. The app then uses Python's face recognition to store the person's data, OpenAI API to extract text, and Co:here summarize API to summarize important audio. Built using ReactJS, Flask, Python, Firebase, OpenAI API, and Co:here API.",
+            "link":"https://github.com/rolodexuofthacks"
+        },
+        {
+            "title":"So, you want to be an auditor? (2024)",
+            "desc":"An interactive video game to educate Canadians on how to file taxes. In addition to step by step instructions and explanations, the game also contains an AI chatbot made using Cloudflare's API that answers any immediate questions in English and French. Built using ReactJS, MUI, Redis, Cloudflare API, Docker and Cloudflare Pages.",
+            "link":"https://github.com/So-you-want-to-be-an-auditor"
+        },
+        {
+            "title":"EmpowerEase (2023)",
+            "desc":"",
+            "link":"https://github.com/EmpowerEase"
+        },
+        
+        {
+            "title":"WesternUNav (2023)",
+            "desc":"WesternUNav is an app that uses Java Swing for the frontend design and Java for the backend functions. The app allows users to navigate and mark points of interest in indoor floor plans at Western University.",
+            "link":"https://github.com/tanusrixh/WesternUNav"
+        },
+        
+        {
+            "title":"GuessNumber (2023)",
+            "desc":"",
+            "link":""
+        }
+    ]
+}
