@@ -30,7 +30,7 @@ export default function BoxData({title, desc, link}) {
                             display:'flex',
                             flexDirection:'column'
                             }}>
-                                <h4 style={{textAlign:'center'}}>
+                                <h4 style={{textAlign:'center', fontPalette:'dark'}}>
                                     {title}
                                 </h4>
                         

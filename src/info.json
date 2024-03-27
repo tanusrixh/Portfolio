@@ -3,7 +3,7 @@
         {
             "title":"Portfolio (2024)",
             "desc":"A website I built to showcase my projects and UI building skills. I used ReactJS, Framer Motion, CSS, and MUI.",
-            "link":""
+            "link":"https://github.com/tanusrixh/Portfolio"
         },
         {
             "title":"GreeneryMiles (2023)",
@@ -44,8 +44,8 @@
         
         {
             "title":"GuessNumber (2023)",
-            "desc":"",
-            "link":""
+            "desc":"GuessNumber is an android app that allows users to guess a random number between 0 and 10. Build using Android SDK and Java.",
+            "link":"https://github.com/tanusrixh/GuessNumber"
         }
     ]
 }
